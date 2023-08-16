@@ -63,5 +63,3 @@ QUITAR_POKEMON: Donde se dividen los campos, se busca el entrenador pedido, se b
 GUARDAR: Donde se dividen los campos, y se llama a la funcion salon_guardar_archivo, pasandole como parametros el salon a escribir, y el nombre recibido.
 
 
--PD
-Muchas gracias por la ayuda.
